@@ -1,0 +1,302 @@
+{
+  "government": "Government of the United Kingdom",
+  "country_code": "GB",
+  "date": "2026-07-06",
+  "run_type": "manual",
+  "executive_summary": "The transparency audit of the Government of the United Kingdom assessed 11 public information sources, all of which were successfully accessed, yielding 48 new documents and 51 pages of information. While the audit found high accessibility (99%) and a reasonable level of documentation (80%), it revealed significant gaps in completeness (20%) and traceability (10%), indicating that critical information may be missing or difficult to verify. Additionally, three questions could not be answered based on the available data, highlighting areas where public information falls short. Overall, the audit suggests that while some information is readily accessible, the lack of comprehensive and traceable documentation limits a full understanding of government operations.",
+  "today_notes": [
+    {
+      "title": "Law passed: Railways Bill to be debated in the Lords - UK Parliament",
+      "category": "legal",
+      "importance": "medium",
+      "summary": "A law passed record was captured from monitored public sources: Railways Bill to be debated in the Lords - UK Parliament.",
+      "analysis": "The recent capture of the Railways Bill, which is set to be debated in the House of Lords, reflects an important aspect of legislative activity within the UK Parliament. Such records are crucial as they serve as primary inputs for tracing public spending and policy activity, thereby enhancing civic transparency. However, it is important to note that there is no accompanying documentation or analysis available in the public record that details the specific provisions of the Railways Bill, its anticipated financial implications, or the context surrounding its introduction. This absence of detailed information limits the ability of the public and stakeholders to fully understand the potential impacts of the legislation.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Railways Bill to be debated in the Lords - UK Parliament",
+          "url": "https://www.parliament.uk/business/news/2026/july-2026/railways-bill-house-of-lords-second-reading2/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:14:11.546245"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Provisional population estimate for the UK - Office for National Statistics",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Provisional population estimate for the UK - Office for National Statistics.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically the Provisional Population Estimate for the UK published by the Office for National Statistics, serves as a crucial element in understanding public spending and policy activity. Such records are essential for analyzing demographic trends and their implications for resource allocation and public services. However, it is important to note that while the report provides valuable data, there is no accompanying information regarding the specific expenditures or policy decisions that directly relate to the population estimates. This absence of contextual financial data limits the ability to fully trace how demographic changes may influence or correlate with public spending initiatives. Thus, while the population estimate is a significant data point, the lack of detailed spending records related to this estimate is a notable gap in the public record.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Provisional population estimate for the UK - Office for National Statistics",
+          "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/provisionalpopulationestimatefortheuk/latest",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:14:05.553779"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: Investigation into the financial sustainability of the British Council - NAO report",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Investigation into the financial sustainability of the British Council - NAO report.",
+      "analysis": "The audit objection record indicates that an investigation into the financial sustainability of the British Council was conducted, as documented in a National Audit Office (NAO) report. This type of record is significant because it serves as a primary input for tracing public spending and understanding policy activities related to the British Council. However, the public record does not provide specific details regarding the findings of the NAO report itself, such as the key conclusions, recommendations, or any identified areas of concern. Additionally, there is no information on how the British Council plans to address the issues raised in the investigation, if any. This lack of detail limits the ability to fully assess the implications of the audit and the overall financial health of the British Council.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Investigation into the financial sustainability of the British Council - NAO report",
+          "url": "https://www.nao.org.uk/reports/investigation-into-the-financial-sustainability-of-the-british-council/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:13:57.974160"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: Devolution in England: funding and accountability - NAO report",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Devolution in England: funding and accountability - NAO report.",
+      "analysis": "The audit objection record derived from the National Audit Office (NAO) report titled \"Devolution in England: funding and accountability\" highlights the importance of transparency in public spending and policy activity. Such records serve as essential tools for understanding how funds are allocated and managed within devolved administrations. However, it is important to note that there is no specific information provided regarding the details of the audit objection itself, such as the nature of the objections raised, the entities involved, or the outcomes of any related investigations. This absence of detailed context limits the ability to fully assess the implications of the findings and their relevance to public accountability.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Devolution in England: funding and accountability - NAO report",
+          "url": "https://www.nao.org.uk/reports/devolution-in-england-funding-and-accountability/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:13:57.426740"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Public service alert: UK Parliament",
+      "category": "public_services",
+      "importance": "medium",
+      "summary": "A public service alert record was captured from monitored public sources: UK Parliament.",
+      "analysis": "The public service alert record obtained from monitored public sources, specifically the UK Parliament, serves as a crucial component for understanding public spending and policy activity. Such records are essential for transparency, as they provide insights into governmental actions and decisions. However, it is important to note that there is no information provided regarding the specific content of the alert or any associated data that would allow for a deeper analysis of its implications. The absence of detailed context or supplementary documentation limits the ability to fully assess the impact of this alert on public understanding of government operations.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "UK Parliament",
+          "url": "https://www.parliament.uk",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:14:06.919098"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Policy announcement: Have your say: laws and debates - UK Parliament",
+      "category": "policy",
+      "importance": "medium",
+      "summary": "A policy announcement record was captured from monitored public sources: Have your say: laws and debates - UK Parliament.",
+      "analysis": "The policy announcement record captured from monitored public sources, specifically from the \"Have your say: laws and debates\" section of the UK Parliament, serves as a crucial element for understanding public spending and policy activity. Such records are essential for tracing the development and implementation of government policies, thereby enhancing civic transparency. However, it is important to note that there is no indication of what specific details or context may be missing from this record, such as the date of the announcement, the stakeholders involved, or the potential implications of the policy discussed. The absence of this information limits the ability to fully assess the impact and relevance of the announcement within the broader framework of public governance.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Have your say: laws and debates - UK Parliament",
+          "url": "https://www.parliament.uk/get-involved/have-your-say-on-laws/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:14:11.914596"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: GDP quarterly national accounts, UK - Office for National Statistics",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: GDP quarterly national accounts, UK - Office for National Statistics.",
+      "analysis": "The spending report record obtained from the monitored public sources, specifically the GDP quarterly national accounts published by the UK Office for National Statistics, serves as a crucial resource for understanding public spending and policy activity. Such records are essential for analyzing economic performance and government financial management. However, it is important to note that there is no indication of any missing data in this instance. The completeness of the report allows for a clearer assessment of public financial activities, although further context or supplementary data may enhance the understanding of specific spending initiatives or policy impacts.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "GDP quarterly national accounts, UK - Office for National Statistics",
+          "url": "https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/latest",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:14:04.576581"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Statistics across the UK - Office for National Statistics",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Statistics across the UK - Office for National Statistics.",
+      "analysis": "The spending report record obtained from the Office for National Statistics (ONS) provides essential data for understanding public spending and policy activity in the UK. This type of record is crucial for civic transparency, as it allows citizens and stakeholders to trace how public funds are allocated and spent. However, it is important to note that the analysis does not indicate any specific details regarding the time frame of the spending report, the categories of expenditures included, or any contextual information that might help interpret the data more effectively. The absence of this contextual information limits the ability to fully assess the implications of the spending patterns reported. Therefore, while the record serves as a valuable resource, additional details are necessary for a comprehensive understanding of public spending trends.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Statistics across the UK - Office for National Statistics",
+          "url": "https://www.ons.gov.uk/methodology/statisticsacrosstheuk",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:14:05.809435"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "High-priority civic questions remain unanswerable",
+      "category": "explainability",
+      "importance": "high",
+      "summary": "2 high-priority civic questions could not be answered from public records in this run.",
+      "analysis": "Based on the provided data, the analysis of the unanswerable civic questions is as follows:\n\n1. **What Happened**: It has been noted that two high-priority civic questions could not be answered using the available public records. This indicates a gap in the accessibility or comprehensiveness of the information that should be available to citizens.\n\n2. **Why It Matters**: The inability to answer these questions is significant because it highlights a potential lack of transparency in government operations. Citizens rely on public information to understand government actions and decisions, and the absence of this information can hinder civic engagement and accountability.\n\n3. **What Is Missing**: The specific missing data includes:\n   - **Contract Award Records**: Documentation that details the awarding of contracts, which is crucial for understanding how public funds are allocated.\n   - **Contract-to-Payment Linkage**: Information that connects awarded contracts to actual payments made, which is essential for tracking financial accountability.\n   - **Payment Records**: Detailed records of payments made under contracts, which provide insight into government spending.\n   - **Published Contract Documents**: The actual contracts that outline the terms and conditions of agreements made, which are vital for public scrutiny.\n\nIn summary, the lack of these records suggests a need for improved transparency and accessibility of government information. Citizens should be able to obtain comprehensive details regarding contracts and payments without requiring insider access. The absence of such information raises concerns about the effectiveness of public information systems in fostering an informed citizenry.",
+      "what_is_missing": "contract award records; contract-to-payment linkage; payment records; published contract documents",
+      "open_questions": [
+        "Which vendors won the largest public contracts this month?",
+        "Can procurement awards be linked to actual payments?"
+      ],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 80,
+    "timeliness": 60,
+    "accessibility": 99,
+    "completeness": 20,
+    "traceability": 10,
+    "explainability": 44,
+    "overall": 52
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 6 were found (budget, tender, audit, law, policy, statistics). Missing: contract, project report. 48 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "48 of 48 collected documents were retrieved as new or changed within the last 30 days, and 0 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 11 known public sources checked, 11 responded successfully; across 51 pages fetched (including 40 followed links), 51 returned machine-readable content (HTML/CSV/JSON/XML or text-based PDF). 0 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure. 3 pages were served with invalid TLS certificate chains and could only be read insecurely \u2014 a barrier for standard clients and a small deduction here.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 0 could be established from public records (none). 35 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 0 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 2 from public records, partially answer 3, and failed 3 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: quarterly budget execution reports; budget-to-project linkage.",
+      "missing_data": [
+        "quarterly budget execution reports",
+        "budget-to-project linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "high",
+      "recommendation": "Publish quarterly budget execution data linked to named projects in machine-readable form."
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: published project report documents.",
+      "missing_data": [
+        "published project report documents"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Maintain a public publication calendar so missing reports are detectable."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: published project report documents; project status records; outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "published project report documents",
+        "project status records",
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    },
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish contract award notices with vendor, amount, and date on a stable public page."
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records; payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records",
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    },
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published project report documents; project status records.",
+      "missing_data": [
+        "published project report documents",
+        "project status records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Publish project-level implementation monitoring reports on a regular schedule."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 11,
+    "sources_successful": 11,
+    "sources_failed": 0,
+    "new_documents_found": 48
+  },
+  "metadata": {
+    "llm_provider": "openai-compatible",
+    "llm_primary_calls": 140,
+    "llm_fallback_calls": 0,
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": [],
+    "crawl": {
+      "pages_fetched": 51,
+      "links_followed": 40,
+      "browser_rescues": 0,
+      "pdf_documents": 0,
+      "scanned_pdfs": 0,
+      "ssl_invalid_pages": 3
+    }
+  }
+}

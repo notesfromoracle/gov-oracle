@@ -1,0 +1,284 @@
+{
+  "government": "Government of the United States",
+  "country_code": "US",
+  "date": "2026-07-06",
+  "run_type": "manual",
+  "executive_summary": "The transparency audit of the Government of the United States assessed 12 sources of publicly available information, with 11 yielding successful results. A total of 54 new documents were identified, contributing to a robust documentation score of 80. However, the audit revealed significant gaps in completeness (40) and traceability (32), indicating that while some information is accessible and explainable, critical details may be lacking or difficult to trace back to their origins. Notably, one source, Congress.gov, was inaccessible due to an HTTP 403 error, which limited the scope of information that could be verified. Overall, the findings suggest that while the government provides a substantial amount of information, there are areas for improvement in ensuring comprehensive and traceable public access.",
+  "today_notes": [
+    {
+      "title": "Spending report: Interest Expense and Interest Rates  | U.S. Treasury Fiscal Data",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Interest Expense and Interest Rates  | U.S. Treasury Fiscal Data.",
+      "analysis": "The captured spending report from monitored public sources, specifically regarding Interest Expense and Interest Rates from U.S. Treasury Fiscal Data, serves as a crucial component for understanding public spending and policy activity. This type of record is essential for tracing financial decisions and their implications on fiscal policy. However, it is important to note that the analysis does not indicate any missing data from the public record. The absence of additional context or supplementary documents that could provide a more comprehensive understanding of the implications of these interest expenses and rates is notable. Such context might include historical comparisons, budgetary impacts, or related policy decisions that could enhance transparency and public understanding.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Interest Expense and Interest Rates  | U.S. Treasury Fiscal Data",
+          "url": "https://fiscaldata.treasury.gov/interest-expense-avg-interest-rates/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:08:39.014646"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Historic Data Now Available | U.S. Treasury Fiscal Data",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Historic Data Now Available | U.S. Treasury Fiscal Data.",
+      "analysis": "The spending report record obtained from the U.S. Treasury Fiscal Data provides a foundational resource for understanding public spending and policy activity. Such records are essential for transparency, as they allow citizens and stakeholders to trace how government funds are allocated and utilized. However, it is important to note that while the report is available, there is no indication of supplementary context or analysis that might accompany the data, such as explanations of spending categories or the rationale behind specific expenditures. This lack of contextual information could limit the ability of the public to fully understand the implications of the spending data. Therefore, while the record itself is a valuable asset for transparency, the absence of additional explanatory materials is a notable gap in the public record.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Historic Data Now Available | U.S. Treasury Fiscal Data",
+          "url": "https://fiscaldata.treasury.gov/featured-content/historic-data-announcement/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:08:35.968405"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: State and Local Government Series (SLGS) | U.S. Treasury Fiscal Data",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: State and Local Government Series (SLGS) | U.S. Treasury Fiscal Data.",
+      "analysis": "The spending report record obtained from the State and Local Government Series (SLGS) of the U.S. Treasury Fiscal Data provides essential insights into public spending and policy activity. Such records are crucial for understanding how government funds are allocated and utilized, thereby promoting civic transparency. However, it is important to note that while the report offers valuable data, there is no indication of any supplementary context or analysis that might accompany these figures. Specifically, the absence of detailed explanations regarding the categories of spending, the time frame of the reported expenditures, and any relevant comparisons to previous periods limits the ability to fully interpret the implications of the data. This lack of contextual information may hinder a comprehensive understanding of the government's financial activities.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "State and Local Government Series (SLGS) | U.S. Treasury Fiscal Data",
+          "url": "https://fiscaldata.treasury.gov/state-and-local-government-series/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:08:38.132158"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: CE home :  U.S. Bureau of Labor Statistics",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: CE home :  U.S. Bureau of Labor Statistics. An associated amount of 78,535 USD was detected in the text.",
+      "analysis": "The spending report record obtained from the U.S. Bureau of Labor Statistics indicates an associated amount of $78,535. This type of record is significant as it serves as a primary input for tracing public spending and understanding policy activity. However, the public record does not provide additional context regarding the purpose of this expenditure, the specific program or initiative it relates to, or the timeframe in which the spending occurred. Without this information, it is challenging to fully assess the implications of the reported amount on public policy or budgetary priorities.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CE home :  U.S. Bureau of Labor Statistics",
+          "url": "https://www.bls.gov/cex/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:10:17.690130"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Fiscal Data Release Calendar | U.S. Treasury Fiscal Data",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Fiscal Data Release Calendar | U.S. Treasury Fiscal Data.",
+      "analysis": "The spending report record obtained from the monitored public sources, specifically the Fiscal Data Release Calendar from the U.S. Treasury Fiscal Data, serves as a crucial component for analyzing public spending and policy activities. This type of record is essential for understanding how government funds are allocated and utilized, thereby contributing to civic transparency. However, it is important to note that there is no indication of any missing data in this instance, which suggests that the available information is complete. Nonetheless, further context regarding the specific spending categories and the timeframes covered by the report would enhance the understanding of the data's implications.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Fiscal Data Release Calendar | U.S. Treasury Fiscal Data",
+          "url": "https://fiscaldata.treasury.gov/release-calendar/",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:08:36.919316"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Policy announcement: Entity Reporting | SAM.gov",
+      "category": "policy",
+      "importance": "medium",
+      "summary": "A policy announcement record was captured from monitored public sources: Entity Reporting | SAM.gov.",
+      "analysis": "The policy announcement record obtained from monitored public sources, specifically from SAM.gov, indicates that there has been a documented communication regarding a policy initiative. Such records are crucial as they serve as primary inputs for tracing public spending and understanding policy activity. However, it is important to note that the analysis lacks specific details about the content of the policy announcement, including the objectives, funding allocations, and the intended impact of the policy. Additionally, there is no information regarding the timeline for implementation or any associated metrics for evaluating success. The absence of these details limits the ability to fully assess the implications of the policy announcement on public spending and governance.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Entity Reporting | SAM.gov",
+          "url": "https://sam.gov/entity-reporting",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:10:07.393209"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: Performance and Accountability Report, Fiscal Year 2025 | U.S. GAO",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Performance and Accountability Report, Fiscal Year 2025 | U.S. GAO. An associated amount of 62,700,000,000 USD was detected in the text.",
+      "analysis": "The Performance and Accountability Report for Fiscal Year 2025, as captured from monitored public sources, indicates an associated amount of $62,700,000,000. This figure is significant as it serves as a primary input for tracing public spending and policy activity, which is essential for civic transparency and accountability. However, the public record does not provide additional context regarding the specific allocations or expenditures associated with this amount, nor does it detail the programs or initiatives it supports. This lack of contextual information limits the ability to fully understand the implications of the reported figure and its impact on public policy.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Performance and Accountability Report, Fiscal Year 2025 | U.S. GAO",
+          "url": "https://www.gao.gov/products/gao-26-900644",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:11:09.306307"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: U.S. Treasury Fiscal Data",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: U.S. Treasury Fiscal Data.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically the U.S. Treasury Fiscal Data, serves as a crucial component for understanding public spending and policy activity. Such records are essential for transparency and accountability in government financial operations. However, it is important to note that there is no indication of missing data in this instance, which suggests that the available information may be complete. Nonetheless, a comprehensive analysis would benefit from additional context, such as the specific time frame of the spending, the categories of expenditures, and any relevant comparisons to previous fiscal periods. This additional information would enhance the understanding of trends and implications related to public spending.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "U.S. Treasury Fiscal Data",
+          "url": "https://fiscaldata.treasury.gov",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:08:28.567323"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Some official sources were unavailable",
+      "category": "accessibility",
+      "importance": "medium",
+      "summary": "1 of 12 monitored official sources were unreachable or returned errors during this run.",
+      "analysis": "Based on the provided information, here is a factual analysis of the source availability for the transparency note:\n\n1. **What Happened**: Out of 12 monitored official sources, 1 source was either unreachable or returned errors during the evaluation period. This indicates a failure in accessing a portion of the official information that is necessary for public transparency.\n\n2. **Why It Matters**: The unavailability of official sources directly impacts the ability to independently verify public information. This lack of access diminishes the overall accessibility score, which is crucial for ensuring that the public can obtain and trust the information provided by government entities.\n\n3. **What Is Missing**: There is a notable absence of stable and reliably available official web sources. This missing data point suggests that there may be systemic issues with the infrastructure or maintenance of these sources, which could hinder public access to important information.\n\nIn summary, the analysis indicates that the failure of one monitored source affects the overall transparency and accessibility of public information. The lack of reliable sources is a significant concern that warrants attention to ensure that all official information remains accessible to the public.",
+      "what_is_missing": "Congress.gov \u2014 legislation: HTTP 403",
+      "open_questions": [],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 80,
+    "timeliness": 61,
+    "accessibility": 94,
+    "completeness": 40,
+    "traceability": 32,
+    "explainability": 88,
+    "overall": 66
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 6 were found (budget, contract, audit, policy, statistics, project report). Missing: tender, law. 54 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "54 of 54 collected documents were retrieved as new or changed within the last 30 days, and 1 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 12 known public sources checked, 11 responded successfully; across 56 pages fetched (including 44 followed links), 54 returned machine-readable content (HTML/CSV/JSON/XML or text-based PDF). 1 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 1 could be established from public records (budget_funds_project). 40 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 1 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 6 from public records, partially answer 2, and failed 0 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 12,
+    "sources_successful": 11,
+    "sources_failed": 1,
+    "new_documents_found": 54
+  },
+  "metadata": {
+    "llm_provider": "openai-compatible",
+    "llm_primary_calls": 73,
+    "llm_fallback_calls": 0,
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": [],
+    "crawl": {
+      "pages_fetched": 56,
+      "links_followed": 44,
+      "browser_rescues": 0,
+      "pdf_documents": 0,
+      "scanned_pdfs": 0,
+      "ssl_invalid_pages": 0
+    }
+  }
+}

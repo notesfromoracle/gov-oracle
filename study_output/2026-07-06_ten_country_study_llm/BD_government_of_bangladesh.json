@@ -1,0 +1,306 @@
+{
+  "government": "Government of Bangladesh",
+  "country_code": "BD",
+  "date": "2026-07-06",
+  "run_type": "manual",
+  "executive_summary": "The transparency audit of the Government of Bangladesh assessed 15 sources of publicly available information, with 13 yielding successful results. A total of 55 new documents were identified, although significant challenges were encountered, including timeouts from the official sites of the Finance Division and the Ministry of Finance. The audit revealed strengths in documentation (90) and accessibility (84), but highlighted weaknesses in completeness (20) and traceability (10), indicating that critical information may be missing or difficult to follow. Overall, while some information was accessible and timely, the audit found that not all questions could be answered, reflecting a need for improved transparency and data availability.",
+  "today_notes": [
+    {
+      "title": "Audit objection: CAG | Audit List",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: CAG | Audit List.",
+      "analysis": "The audit objection record captured from monitored public sources, specifically the CAG | Audit List, is a significant document as it serves as a primary input for tracing public spending and policy activity. Such records are essential for understanding how public funds are allocated and utilized, thereby contributing to civic transparency. However, it is important to note that there is no information provided regarding the specific details of the audit objection itself, such as the nature of the objections raised, the entities involved, or the outcomes of any subsequent actions taken. This lack of detail limits the ability to fully assess the implications of the audit findings and their impact on public accountability.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CAG | Audit List",
+          "url": "https://cag.org.bd/audit/financial-audit-reports",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:50:01.150735"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Policy announcement: CAG | Budget management",
+      "category": "policy",
+      "importance": "medium",
+      "summary": "A policy announcement record was captured from monitored public sources: CAG | Budget management.",
+      "analysis": "The captured policy announcement record from monitored public sources regarding CAG | Budget management is significant as it serves as a primary input for tracing public spending and policy activity. This type of record is essential for understanding how budgetary decisions are made and implemented within government frameworks. However, it is important to note that there is no additional context or detail provided in the public record regarding the specific contents of the policy announcement, such as the objectives, expected outcomes, or any stakeholder engagement that may have occurred. The absence of this information limits the ability to fully assess the implications of the policy and its alignment with broader fiscal strategies.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CAG | Budget management",
+          "url": "https://cag.org.bd/gov/budget-management",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:50:03.053301"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: CAG | Audit List",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: CAG | Audit List.",
+      "analysis": "The audit objection record obtained from monitored public sources, specifically the CAG | Audit List, highlights an important aspect of civic transparency, as such records serve as a primary input for tracing public spending and policy activity. This information is crucial for understanding how public funds are allocated and utilized. However, it is important to note that while the audit objection record itself is present, there is no accompanying documentation or context provided regarding the specific nature of the objections raised, the outcomes of any subsequent investigations, or the implications for public policy. This lack of detailed information limits the ability to fully assess the impact of the audit findings on public accountability and governance.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CAG | Audit List",
+          "url": "https://cag.org.bd/audit/compliance-audit-report",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:50:00.680301"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: CAG | Audit List",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: CAG | Audit List.",
+      "analysis": "The audit objection record obtained from monitored public sources, specifically the CAG | Audit List, is significant as it serves as a primary input for tracing public spending and policy activity. This type of record is essential for understanding how funds are allocated and utilized within government operations. However, it is important to note that there is no additional context or detail provided regarding the specific nature of the audit objections or the outcomes of any related investigations. The absence of this information limits the ability to fully assess the implications of the audit findings and their impact on public accountability.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CAG | Audit List",
+          "url": "https://cag.org.bd/audit/special-issue-based-audit-report",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:50:02.509598"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Project status: \u098f\u0995 \u09a8\u099c\u09b0\u09c7 Scem Project | \u09aa\u09be\u09a4\u09be | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb",
+      "category": "infrastructure",
+      "importance": "medium",
+      "summary": "A project status record was captured from monitored public sources: \u098f\u0995 \u09a8\u099c\u09b0\u09c7 Scem Project | \u09aa\u09be\u09a4\u09be | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb. An associated amount of 109,640 BDT was detected in the text.",
+      "analysis": "The project status record for the \"Scem Project\" indicates an associated amount of 109,640 BDT, as captured from monitored public sources. This type of record is significant as it serves as a primary input for tracing public spending and assessing policy activity. However, the public record lacks additional context regarding the project's objectives, timeline, and specific outcomes, which are essential for a comprehensive understanding of the project's impact and effectiveness. Furthermore, there is no information available about the source of the funding or the criteria used for the allocation of this amount. This absence of detailed information limits the ability to fully evaluate the project's alignment with public needs and priorities.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "\u098f\u0995 \u09a8\u099c\u09b0\u09c7 Scem Project | \u09aa\u09be\u09a4\u09be | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb",
+          "url": "https://bbs.gov.bd/pages/static-pages/%E0%A6%8F%E0%A6%95-%E0%A6%A8%E0%A6%9C%E0%A6%B0%E0%A7%87-scem-project-sgu5yy-699be05d62f257e8d865771c",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:49:44.201177"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Procurement notice: \u099a\u09be\u0995\u09b0\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09cd\u09b0 \u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u099c\u09be\u09a4\u09c0\u09df \u09a4\u09a5\u09cd\u09af \u09ac\u09be\u09a4\u09be\u09df\u09a8",
+      "category": "procurement",
+      "importance": "medium",
+      "summary": "A procurement notice record was captured from monitored public sources: \u099a\u09be\u0995\u09b0\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09cd\u09b0 \u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u099c\u09be\u09a4\u09c0\u09df \u09a4\u09a5\u09cd\u09af \u09ac\u09be\u09a4\u09be\u09df\u09a8.",
+      "analysis": "The procurement notice record titled \"\u09aa\u09be\u0995\u09b0\u09bf\u09b0 \u09a6\u09aa\u09cd\u09a4\u09b0 \u09ac\u09bf\u099c\u09cd\u099e\u09be\u09a8\u09aa\u09a4\u09bf | \u09ac\u09be\u0981\u09b2\u09be\u09a6\u09c7\u09b6 \u099c\u09be\u09a4\u09c0\u09af\u09bc\u09a4\u09be\u09ac\u09be\u09a6\u09c0 \u09ac\u09be\u09a4\u09be\u09af\u09bc\u09a8\" was captured from monitored public sources. This type of record is significant as it serves as a primary input for tracing public spending and policy activity, which is essential for civic transparency and accountability. However, the analysis of this record is limited by the absence of additional contextual information, such as the specific details of the procurement process, the entities involved, and the intended outcomes of the procurement. Without this information, it is challenging to fully assess the implications of the procurement notice and its alignment with public policy objectives.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "\u099a\u09be\u0995\u09b0\u09bf\u09b0 \u09a6\u09b0\u09aa\u09a4\u09cd\u09b0 \u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u099c\u09be\u09a4\u09c0\u09df \u09a4\u09a5\u09cd\u09af \u09ac\u09be\u09a4\u09be\u09df\u09a8",
+          "url": "https://bangladesh.gov.bd/pages/job-tender-announcements",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:47:07.578320"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Time Use Survey (Tus) 2026 27 \u099c\u09b0\u09bf\u09aa\u09c7\u09b0 \u09ae\u09be\u09a0\u09aa\u09b0\u09cd\u09af\u09be\u09df\u09c7\u09b0 \u09a4\u09a5\u09cd\u09af \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a4\u09a5\u09cd\u09af \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u0995\u09be\u09b0\u09c0 \u09a8\u09bf\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09b8\u0982\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf \u0993 \u0986\u09ac\u09c7\u09a6\u09a8",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Time Use Survey (Tus) 2026 27 \u099c\u09b0\u09bf\u09aa\u09c7\u09b0 \u09ae\u09be\u09a0\u09aa\u09b0\u09cd\u09af\u09be\u09df\u09c7\u09b0 \u09a4\u09a5\u09cd\u09af \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a4\u09a5\u09cd\u09af \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u0995\u09be\u09b0\u09c0 \u09a8\u09bf\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09b8\u0982\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf \u0993 \u0986\u09ac\u09c7\u09a6\u09a8 \u09ab\u09b0\u09ae | \u09a8\u09cb\u099f\u09bf\u09b6 | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb.",
+      "analysis": "The spending report captured from monitored public sources pertains to the Time Use Survey (TUS) for the fiscal year 2026-27. This document is significant as it serves as a primary input for tracing public spending and policy activity, thereby contributing to civic transparency. However, the analysis of this report reveals that there is no accompanying data or context provided regarding the specific expenditures or the methodologies used in the survey. Additionally, there is a lack of information on how the findings from this survey will be utilized in future policy decisions or budget allocations. The absence of this contextual information limits the ability to fully understand the implications of the reported spending and its alignment with public needs.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Time Use Survey (Tus) 2026 27 \u099c\u09b0\u09bf\u09aa\u09c7\u09b0 \u09ae\u09be\u09a0\u09aa\u09b0\u09cd\u09af\u09be\u09df\u09c7\u09b0 \u09a4\u09a5\u09cd\u09af \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u09c7\u09b0 \u099c\u09a8\u09cd\u09af \u09a4\u09a5\u09cd\u09af \u09b8\u0982\u0997\u09cd\u09b0\u09b9\u0995\u09be\u09b0\u09c0 \u09a8\u09bf\u09af\u09c1\u0995\u09cd\u09a4\u09bf \u09b8\u0982\u0995\u09cd\u09b0\u09be\u09a8\u09cd\u09a4 \u09ac\u09bf\u099c\u09cd\u099e\u09aa\u09cd\u09a4\u09bf \u0993 \u0986\u09ac\u09c7\u09a6\u09a8 \u09ab\u09b0\u09ae | \u09a8\u09cb\u099f\u09bf\u09b6 | \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u09aa\u09b0\u09bf\u09b8\u0982\u0996\u09cd\u09af\u09be\u09a8 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb",
+          "url": "https://bbs.gov.bd/pages/notices/time-use-survey-tus-2026-27-%E0%A6%9C%E0%A6%B0%E0%A6%BF%E0%A6%AA%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BE%E0%A6%A0%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%B8%E0%A6%82%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%93-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8-%E0%A6%AB%E0%A6%B0%E0%A6%AE-938xzc-6a04355f9f0c5ba58e6f4998",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:49:43.145092"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: CAG | Audit List",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: CAG | Audit List.",
+      "analysis": "The audit objection record obtained from the monitored public sources, specifically the CAG | Audit List, serves as a crucial element in understanding public spending and policy activities. Such records are essential for ensuring transparency and accountability in government financial practices. However, it is important to note that the public record does not provide additional context or details regarding the specific nature of the audit objections, including the reasons for the objections or any subsequent actions taken in response. This absence of information limits the ability to fully assess the implications of the audit findings and their impact on public policy.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CAG | Audit List",
+          "url": "https://cag.org.bd/audit/performance-audit-report",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:50:01.686801"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Some official sources were unavailable",
+      "category": "accessibility",
+      "importance": "medium",
+      "summary": "2 of 15 monitored official sources were unreachable or returned errors during this run.",
+      "analysis": "Based on the provided transparency note, the analysis of source availability is as follows:\n\n1. **What Happened**: The note indicates that 2 out of 15 monitored official sources were either unreachable or returned errors during the assessment. This suggests a significant issue with the reliability of these sources, as a substantial portion of the monitored data was not accessible.\n\n2. **Why It Matters**: The inability to access official sources directly impacts the verification of public information. When sources are unavailable, it hinders the ability of the public and stakeholders to independently confirm the information provided by the government. This situation contributes to a lower accessibility score, which reflects the overall transparency and accountability of the government.\n\n3. **What Is Missing**: The note highlights the absence of stable and reliably available official web sources. This missing element is critical, as it indicates a gap in the infrastructure necessary for maintaining public access to government information. Without consistent access to these sources, the public's ability to engage with and understand government operations is compromised.\n\nIn summary, the analysis reveals that the current state of official source availability is inadequate, which poses challenges for transparency and public trust. The specific mention of errors and unavailability underscores the need for improvements in the reliability of these sources.",
+      "what_is_missing": "Finance Division \u2014 official site: ConnectTimeout: timed out; Ministry of Finance \u2014 Budget publications: ConnectTimeout: timed out",
+      "open_questions": [],
+      "evidence": [],
+      "confidence": 0.9
+    },
+    {
+      "title": "High-priority civic questions remain unanswerable",
+      "category": "explainability",
+      "importance": "high",
+      "summary": "2 high-priority civic questions could not be answered from public records in this run.",
+      "analysis": "Based on the provided data, the analysis of the unanswerable civic questions is as follows:\n\n1. **What Happened**: It has been noted that two high-priority civic questions could not be answered using the available public records. This indicates a gap in the transparency or accessibility of information that is typically expected from government entities.\n\n2. **Why It Matters**: The inability to answer these questions is significant because it reflects on the fundamental principle of civic engagement, which is that citizens should have access to information regarding government operations and decisions. This access is crucial for informed participation in democratic processes and for holding public officials accountable.\n\n3. **What Is Missing**: The specific types of information that are lacking include:\n   - **Contract Award Records**: Documentation that details which contracts have been awarded, to whom, and under what circumstances.\n   - **Contract-to-Payment Linkage**: Information that connects awarded contracts to actual payments made, which is essential for understanding the financial implications of government contracts.\n   - **Payment Records**: Detailed records of payments made under these contracts, which would provide insight into the financial transactions and obligations of the government.\n   - **Published Contract Documents**: The actual contracts themselves, which should outline the terms, conditions, and expectations of the agreements made by the government.\n\nThe absence of these records suggests a potential lack of transparency in the procurement and financial processes of the government. This missing data is critical for citizens who seek to understand how public funds are being utilized and to ensure that government actions align with public interests.",
+      "what_is_missing": "contract award records; contract-to-payment linkage; payment records; published contract documents",
+      "open_questions": [
+        "Which vendors won the largest public contracts this month?",
+        "Can procurement awards be linked to actual payments?"
+      ],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 90,
+    "timeliness": 62,
+    "accessibility": 84,
+    "completeness": 20,
+    "traceability": 10,
+    "explainability": 62,
+    "overall": 55
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 7 were found (budget, tender, audit, law, policy, statistics, project report). Missing: contract. 55 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "55 of 55 collected documents were retrieved as new or changed within the last 30 days, and 3 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 15 known public sources checked, 13 responded successfully; across 60 pages fetched (including 45 followed links), 56 returned machine-readable content (HTML/CSV/JSON/XML or text-based PDF). 2 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure. Of 4 PDFs collected, 1 were scanned images with no extractable text. 26 pages were served with invalid TLS certificate chains and could only be read insecurely \u2014 a barrier for standard clients and a small deduction here.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 0 could be established from public records (none). 28 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 0 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 4 from public records, partially answer 2, and failed 2 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: quarterly budget execution reports; budget-to-project linkage.",
+      "missing_data": [
+        "quarterly budget execution reports",
+        "budget-to-project linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "high",
+      "recommendation": "Publish quarterly budget execution data linked to named projects in machine-readable form."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    },
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish contract award notices with vendor, amount, and date on a stable public page."
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records; payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records",
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 15,
+    "sources_successful": 13,
+    "sources_failed": 2,
+    "new_documents_found": 55
+  },
+  "metadata": {
+    "llm_provider": "openai-compatible",
+    "llm_primary_calls": 540,
+    "llm_fallback_calls": 3,
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": [],
+    "crawl": {
+      "pages_fetched": 60,
+      "links_followed": 45,
+      "browser_rescues": 0,
+      "pdf_documents": 4,
+      "scanned_pdfs": 1,
+      "ssl_invalid_pages": 26
+    }
+  }
+}

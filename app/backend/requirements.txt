@@ -1,0 +1,10 @@
+flask>=3.0
+flask-cors>=4.0
+apscheduler>=3.10
+redis>=5.0
+rq>=1.16
+python-dotenv>=1.0
+gunicorn>=22.0
+# The agents library owns the DB schema and pipeline; install it in editable
+# mode from the monorepo: pip install -e ../../agents
+-e ../../agents

@@ -1,0 +1,322 @@
+{
+  "government": "Government of India",
+  "country_code": "IN",
+  "date": "2026-07-06",
+  "run_type": "manual",
+  "executive_summary": "The transparency audit of the Government of India assessed 11 sources of publicly available information, with 6 successfully providing data and 5 failing to connect. A total of 21 new documents were identified, but significant gaps were noted in completeness (20%) and traceability (10%), indicating challenges in understanding the government's operations. Only one out of seven questions posed could be answered based on the available information, highlighting limitations in explainability (19%) and overall transparency (38%). The audit underscores the need for improved access and reliability of government data to enhance public understanding.",
+  "today_notes": [
+    {
+      "title": "Audit objection: Audit Reports | Comptroller and Auditor General of India",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Audit Reports | Comptroller and Auditor General of India.",
+      "analysis": "The audit objection record obtained from the Comptroller and Auditor General of India is a significant document as it serves as a primary input for tracing public spending and policy activity. Such records are essential for understanding how public funds are allocated and utilized, thereby contributing to civic transparency. However, it is important to note that there is no additional contextual information provided regarding the specific nature of the audit objections, the entities involved, or the outcomes of any subsequent actions taken in response to these objections. This lack of detail limits the ability to fully assess the implications of the audit findings and their impact on public accountability.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Audit Reports | Comptroller and Auditor General of India",
+          "url": "https://cag.gov.in/hi/audit-report?gt=50",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:20.020778"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: Audit Reports | Comptroller and Auditor General of India",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Audit Reports | Comptroller and Auditor General of India.",
+      "analysis": "The audit objection record obtained from the monitored public sources, specifically the Audit Reports from the Comptroller and Auditor General of India, serves as a crucial element in understanding public spending and policy activities. Such records are essential for ensuring accountability and transparency in government financial operations. However, it is important to note that there is no additional context or detailed information provided regarding the specific findings or implications of the audit objections. This lack of detail limits the ability to fully assess the nature and significance of the objections raised, as well as their potential impact on public policy and financial management. Further documentation or supplementary reports would enhance the understanding of these audit findings and their relevance to civic transparency.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Audit Reports | Comptroller and Auditor General of India",
+          "url": "https://cag.gov.in/hi/audit-report?gt=51",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:21.853766"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: Audit Reports | Comptroller and Auditor General of India",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Audit Reports | Comptroller and Auditor General of India.",
+      "analysis": "The audit objection record obtained from the Comptroller and Auditor General of India is a significant document, as it serves as a primary input for tracing public spending and policy activity. Such records are essential for understanding how government funds are allocated and utilized, thereby contributing to civic transparency. However, it is important to note that there is no additional information provided regarding the specific contents of the audit objection record, such as the nature of the objections raised, the entities involved, or the outcomes of any subsequent investigations or actions taken. This lack of detail limits the ability to fully assess the implications of the audit findings and their impact on public accountability.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Audit Reports | Comptroller and Auditor General of India",
+          "url": "https://cag.gov.in/hi/audit-report?gt=49",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:20.961135"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: Audit Reports | Comptroller and Auditor General of India",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: Audit Reports | Comptroller and Auditor General of India.",
+      "analysis": "The audit objection record obtained from the monitored public sources, specifically the Audit Reports from the Comptroller and Auditor General of India, serves as a crucial element in understanding public spending and policy activity. Such records are essential for ensuring transparency and accountability in government financial management. However, it is important to note that there is no additional context or specific details provided regarding the nature of the audit objections or the outcomes of these audits. This lack of information limits the ability to fully assess the implications of the audit findings and their impact on public policy. Further details on the specific objections raised, the responses from the audited entities, and any subsequent actions taken would enhance the understanding of the situation.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Audit Reports | Comptroller and Auditor General of India",
+          "url": "https://cag.gov.in/hi/audit-report",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:19.147640"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Audit objection: \u0911\u0921\u093f\u091f \u0930\u093f\u092a\u094b\u0930\u094d\u091f | Comptroller and Auditor General of India",
+      "category": "audit",
+      "importance": "high",
+      "summary": "A audit objection record was captured from monitored public sources: \u0911\u0921\u093f\u091f \u0930\u093f\u092a\u094b\u0930\u094d\u091f | Comptroller and Auditor General of India.",
+      "analysis": "The audit objection record captured from monitored public sources pertains to the \"\u0905\u0921\u093f\u091f \u0930\u093f\u092a\u094b\u0930\u094d\u091f\" from the Comptroller and Auditor General of India. This type of record is significant as it serves as a primary input for tracing public spending and policy activity, thereby contributing to civic transparency and accountability. However, it is important to note that there is no additional context or details provided regarding the specific contents of the audit objection or the implications of the findings. The absence of such information limits the ability to fully understand the nature of the objections raised and their potential impact on public policy or spending. Therefore, while the existence of the audit record is a positive indicator of oversight, the lack of detailed information is a notable gap in the public record.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "\u0911\u0921\u093f\u091f \u0930\u093f\u092a\u094b\u0930\u094d\u091f | Comptroller and Auditor General of India",
+          "url": "https://cag.gov.in/hi/audit-report/details/123188",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:18.191448"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Procurement notice: Tenders - Reserve Bank of India",
+      "category": "procurement",
+      "importance": "medium",
+      "summary": "A procurement notice record was captured from monitored public sources: Tenders - Reserve Bank of India.",
+      "analysis": "The procurement notice record obtained from the monitored public sources, specifically from the Tenders section of the Reserve Bank of India, serves as a crucial element for understanding public spending and policy activities. Such records are essential for ensuring transparency and accountability in government financial transactions. However, it is important to note that there is no additional context or details provided regarding the specific procurement process, including the nature of the goods or services being procured, the estimated budget, or the timeline for the procurement. This lack of information limits the ability to fully assess the implications of the procurement notice and its alignment with broader public policy objectives.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Tenders - Reserve Bank of India",
+          "url": "https://www.rbi.org.in/Scripts/BS_ViewTenders.aspx",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:52.711505"
+        }
+      ],
+      "confidence": 0.6000000000000001
+    },
+    {
+      "title": "Spending report: Publications - Reserve Bank of India",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Publications - Reserve Bank of India.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically the Publications of the Reserve Bank of India, serves as a crucial resource for understanding public spending and policy activities. Such records are essential for transparency and accountability in government financial operations. However, it is important to note that there is no indication of missing data in this instance. The absence of any noted omissions suggests that the available information may be complete, but without further context or additional documentation, it is difficult to fully assess the comprehensiveness of the spending report. Future evaluations would benefit from a broader range of financial records and supplementary data to enhance transparency and facilitate a more thorough analysis of public spending patterns.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Publications - Reserve Bank of India",
+          "url": "https://www.rbi.org.in/Scripts/Publications.aspx?publication=Reports",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:53.278996"
+        }
+      ],
+      "confidence": 0.6000000000000001
+    },
+    {
+      "title": "Spending report: Publications - Reserve Bank of India",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Publications - Reserve Bank of India.",
+      "analysis": "The spending report record obtained from the monitored public sources, specifically from the Publications of the Reserve Bank of India, serves as a crucial component for understanding public spending and policy activities. Such records are essential for transparency and accountability in government financial operations. However, it is important to note that there is no indication of any missing data in this instance. The absence of missing information suggests that the available records may provide a complete view of the reported spending; however, without additional context or supplementary documents, it is challenging to fully assess the implications of the spending activities reported. Further details regarding the specific expenditures, their purposes, and the timeframes involved would enhance the understanding of the financial activities documented.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Publications - Reserve Bank of India",
+          "url": "https://www.rbi.org.in/Scripts/Publications.aspx?publication=Annual",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:28:53.848933"
+        }
+      ],
+      "confidence": 0.6000000000000001
+    },
+    {
+      "title": "Some official sources were unavailable",
+      "category": "accessibility",
+      "importance": "medium",
+      "summary": "5 of 11 monitored official sources were unreachable or returned errors during this run.",
+      "analysis": "Based on the provided data, the analysis of the transparency note is as follows:\n\n1. **What Happened**: The report indicates that 5 out of 11 monitored official sources were either unreachable or returned errors during the evaluation period. This suggests a significant issue with the accessibility of these sources.\n\n2. **Why It Matters**: The inability to access official sources directly impacts the verification of public information. When sources are unavailable, it hinders the public's ability to independently confirm the information provided by the government, which is crucial for transparency and accountability. This situation contributes to a lower accessibility score, indicating a deficiency in the availability of public information.\n\n3. **What Is Missing**: The analysis highlights the absence of stable and reliably available official web sources. This lack of dependable access to information is a critical gap, as it prevents stakeholders from obtaining necessary data to assess government actions and policies effectively.\n\nIn summary, the findings underscore a notable deficiency in the availability of official information sources, which is essential for maintaining transparency and public trust. The specific details regarding which sources were unreachable or the nature of the errors encountered were not provided, which could further inform the analysis of the situation.",
+      "what_is_missing": "data.gov.in \u2014 open data: ConnectTimeout: timed out; Ministry of Finance \u2014 official site: ConnectError: [Errno 8] nodename nor servname provided, or not known; Government e-Marketplace \u2014 official site: ConnectError: [Errno 61] Connection refused; Union Budget portal: HTTP 403; India Code \u2014 legislation: HTTP 403",
+      "open_questions": [],
+      "evidence": [],
+      "confidence": 0.9
+    },
+    {
+      "title": "High-priority civic questions remain unanswerable",
+      "category": "explainability",
+      "importance": "high",
+      "summary": "4 high-priority civic questions could not be answered from public records in this run.",
+      "analysis": "Based on the provided data, the analysis of the unanswerable civic questions is as follows:\n\n1. **What Happened**: Four high-priority civic questions could not be answered from the available public records. This indicates a gap in the transparency or accessibility of information that is crucial for civic engagement and informed citizenship.\n\n2. **Why It Matters**: The inability to answer these questions is significant because it suggests that essential information, which citizens should be able to access without needing insider knowledge, is not readily available. This lack of transparency can hinder public trust and accountability in government operations.\n\n3. **What Is Missing**: The following specific types of records are noted as missing, which are critical for understanding government operations and financial management:\n   - **Asset Registers**: These documents would provide information on government-owned assets, their values, and their management.\n   - **Budget Allocation Records**: These records detail how funds are allocated across various departments and projects, which is essential for understanding government priorities.\n   - **Budget-to-Project Linkage**: This linkage would clarify how budgeted funds are connected to specific projects, allowing for better tracking of financial commitments.\n   - **Contract Award Records**: These documents would show which contracts have been awarded, to whom, and under what terms, which is vital for transparency in procurement processes.\n   - **Contract-to-Payment Linkage**: This would provide insight into how contract awards translate into actual payments, ensuring accountability in financial transactions.\n   - **Full Spending Chain Linkage**: This would encompass the entire process from budget allocation to final expenditure, allowing for comprehensive oversight of public spending.\n\nIn summary, the absence of these records limits the ability of citizens to engage with and understand government actions and financial decisions. The lack of accessible public information on these topics raises concerns about transparency and accountability in government operations.",
+      "what_is_missing": "asset registers; budget allocation records; budget-to-project linkage; contract award records; contract-to-payment linkage; full spending chain linkage",
+      "open_questions": [
+        "Where did the health ministry's development budget go this quarter?",
+        "Which vendors won the largest public contracts this month?",
+        "Can procurement awards be linked to actual payments?",
+        "Can a budget allocation be followed to a completed public asset or outcome?"
+      ],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 50,
+    "timeliness": 60,
+    "accessibility": 68,
+    "completeness": 20,
+    "traceability": 10,
+    "explainability": 19,
+    "overall": 38
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 3 were found (tender, audit, statistics). Missing: budget, contract, law, policy, project report. 21 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "21 of 21 collected documents were retrieved as new or changed within the last 30 days, and 0 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 11 known public sources checked, 6 responded successfully; across 26 pages fetched (including 15 followed links), 21 returned machine-readable content (HTML/CSV/JSON/XML or text-based PDF). 5 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 0 could be established from public records (none). 10 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 0 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 1 from public records, partially answer 1, and failed 6 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: published project report documents.",
+      "missing_data": [
+        "published project report documents"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Maintain a public publication calendar so missing reports are detectable."
+    },
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published budget documents; budget allocation records; quarterly budget execution reports; budget-to-project linkage.",
+      "missing_data": [
+        "published budget documents",
+        "budget allocation records",
+        "quarterly budget execution reports",
+        "budget-to-project linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish quarterly budget execution data linked to named projects in machine-readable form."
+    },
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish contract award notices with vendor, amount, and date on a stable public page."
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records; payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records",
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    },
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published project report documents; project status records.",
+      "missing_data": [
+        "published project report documents",
+        "project status records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Publish project-level implementation monitoring reports on a regular schedule."
+    },
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published budget documents; budget allocation records.",
+      "missing_data": [
+        "published budget documents",
+        "budget allocation records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Release budget tables as CSV/Excel with program-level line items and prior-year comparisons."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published budget documents; published project report documents; budget allocation records; project status records; outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "published budget documents",
+        "published project report documents",
+        "budget allocation records",
+        "project status records",
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 11,
+    "sources_successful": 6,
+    "sources_failed": 5,
+    "new_documents_found": 21
+  },
+  "metadata": {
+    "llm_provider": "openai-compatible",
+    "llm_primary_calls": 396,
+    "llm_fallback_calls": 0,
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": [],
+    "crawl": {
+      "pages_fetched": 26,
+      "links_followed": 15,
+      "browser_rescues": 0,
+      "pdf_documents": 0,
+      "scanned_pdfs": 0,
+      "ssl_invalid_pages": 0
+    }
+  }
+}

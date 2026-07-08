@@ -1,0 +1,238 @@
+{
+  "government": "Government of Bangladesh",
+  "country_code": "BD",
+  "date": "2026-07-04",
+  "run_type": "daily",
+  "executive_summary": "This report evaluates how well Government of Bangladesh can be understood from its public information. The system checked 14 known public sources; 8 responded and 8 new or changed documents were captured. Of the civic transparency questions attempted, 1 could be answered from public records and 6 could not, usually because records were missing, not machine-readable, or not linked to each other. The overall information-navigability score for this run is 30/100. Scores reflect the availability and traceability of public information only; they do not assess policy or ideology.",
+  "today_notes": [
+    {
+      "title": "Procurement notice: Bangladesh Bank",
+      "category": "procurement",
+      "importance": "medium",
+      "summary": "A procurement notice record was captured from monitored public sources: Bangladesh Bank. An associated amount of 123 USD was detected in the text.",
+      "analysis": "A procurement notice record was captured from monitored public sources: Bangladesh Bank. An associated amount of 123 USD was detected in the text. Records of this type are a primary input for tracing public spending and policy activity. However, the public record is incomplete: Classification confidence is moderate; the document's type and details have not been confirmed against a second public record. This limits independent verification and is itself a transparency finding.",
+      "what_is_missing": "Classification confidence is moderate; the document's type and details have not been confirmed against a second public record.",
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Bangladesh Bank",
+          "url": "https://www.bb.org.bd",
+          "source_type": "government",
+          "retrieved_at": "2026-07-04T16:01:50.711486"
+        }
+      ],
+      "confidence": 0.55
+    },
+    {
+      "title": "Procurement notice: CAG | Comptroller and Auditor General of Bangladesh | Home",
+      "category": "procurement",
+      "importance": "medium",
+      "summary": "A procurement notice record was captured from monitored public sources: CAG | Comptroller and Auditor General of Bangladesh | Home.",
+      "analysis": "A procurement notice record was captured from monitored public sources: CAG | Comptroller and Auditor General of Bangladesh | Home. Records of this type are a primary input for tracing public spending and policy activity. However, the public record is incomplete: Classification confidence is moderate; the document's type and details have not been confirmed against a second public record. This limits independent verification and is itself a transparency finding.",
+      "what_is_missing": "Classification confidence is moderate; the document's type and details have not been confirmed against a second public record.",
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CAG | Comptroller and Auditor General of Bangladesh | Home",
+          "url": "https://cag.org.bd",
+          "source_type": "government",
+          "retrieved_at": "2026-07-04T16:01:30.118051"
+        }
+      ],
+      "confidence": 0.55
+    },
+    {
+      "title": "Contract award: Welcome to e-GP",
+      "category": "procurement",
+      "importance": "high",
+      "summary": "A contract award record was captured from monitored public sources: Welcome to e-GP.",
+      "analysis": "A contract award record was captured from monitored public sources: Welcome to e-GP. Records of this type are a primary input for tracing public spending and policy activity. However, the public record is incomplete: Classification confidence is moderate; the document's type and details have not been confirmed against a second public record. This limits independent verification and is itself a transparency finding.",
+      "what_is_missing": "Classification confidence is moderate; the document's type and details have not been confirmed against a second public record.",
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Welcome to e-GP",
+          "url": "https://www.eprocure.gov.bd",
+          "source_type": "government",
+          "retrieved_at": "2026-07-04T16:01:50.906993"
+        }
+      ],
+      "confidence": 0.55
+    },
+    {
+      "title": "Contract award: BPPA | Bangladesh Public Procurement Authority",
+      "category": "procurement",
+      "importance": "high",
+      "summary": "A contract award record was captured from monitored public sources: BPPA | Bangladesh Public Procurement Authority.",
+      "analysis": "A contract award record was captured from monitored public sources: BPPA | Bangladesh Public Procurement Authority. Records of this type are a primary input for tracing public spending and policy activity. However, the public record is incomplete: Classification confidence is moderate; the document's type and details have not been confirmed against a second public record. This limits independent verification and is itself a transparency finding.",
+      "what_is_missing": "Classification confidence is moderate; the document's type and details have not been confirmed against a second public record.",
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "BPPA | Bangladesh Public Procurement Authority",
+          "url": "https://bppa.gov.bd",
+          "source_type": "government",
+          "retrieved_at": "2026-07-04T16:01:29.409089"
+        }
+      ],
+      "confidence": 0.55
+    },
+    {
+      "title": "Some official sources were unavailable",
+      "category": "accessibility",
+      "importance": "medium",
+      "summary": "6 of 14 monitored official sources were unreachable or returned errors during this run.",
+      "analysis": "6 of 14 monitored official sources were unreachable or returned errors during this run. When official sources are unavailable, public information cannot be independently verified, which lowers the accessibility score. However, the public record is incomplete: Stable, reliably available official web sources. This limits independent verification and is itself a transparency finding.",
+      "what_is_missing": "Bangladesh Bureau of Statistics: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081); IMED \u2014 project implementation monitoring: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081); Ministry of Finance \u2014 Budget publications: ConnectTimeout: timed out; Bangladesh Planning Commission: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081); Press Information Department: ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)",
+      "open_questions": [],
+      "evidence": [],
+      "confidence": 0.9
+    },
+    {
+      "title": "High-priority civic questions remain unanswerable",
+      "category": "explainability",
+      "importance": "high",
+      "summary": "3 high-priority civic questions could not be answered from public records in this run.",
+      "analysis": "3 high-priority civic questions could not be answered from public records in this run. These questions represent things a citizen should be able to learn from public information without insider access. However, the public record is incomplete: asset registers; audit objection records; budget allocation records; budget-to-project linkage; full spending chain linkage; outcome reporting. This limits independent verification and is itself a transparency finding.",
+      "what_is_missing": "asset registers; audit objection records; budget allocation records; budget-to-project linkage; full spending chain linkage; outcome reporting",
+      "open_questions": [
+        "Where did the health ministry's development budget go this quarter?",
+        "What did the auditor general object to in the most recent audit cycle?",
+        "Can a budget allocation be followed to a completed public asset or outcome?"
+      ],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 28,
+    "timeliness": 60,
+    "accessibility": 57,
+    "completeness": 8,
+    "traceability": 10,
+    "explainability": 19,
+    "overall": 30
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 2 were found (tender, contract). Missing: budget, audit, law, policy, statistics, project report. 8 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "8 of 8 collected documents were retrieved as new or changed within the last 30 days, and 0 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 14 known public sources checked, 8 responded successfully and 8 returned machine-readable formats (HTML/CSV/JSON/XML). 6 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 0 could be established from public records (none). 4 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 0 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 1 from public records, partially answer 1, and failed 6 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    },
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published budget documents; budget allocation records; quarterly budget execution reports; budget-to-project linkage.",
+      "missing_data": [
+        "published budget documents",
+        "budget allocation records",
+        "quarterly budget execution reports",
+        "budget-to-project linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish quarterly budget execution data linked to named projects in machine-readable form."
+    },
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published project report documents; project status records.",
+      "missing_data": [
+        "published project report documents",
+        "project status records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Publish project-level implementation monitoring reports on a regular schedule."
+    },
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published budget documents; budget allocation records.",
+      "missing_data": [
+        "published budget documents",
+        "budget allocation records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Release budget tables as CSV/Excel with program-level line items and prior-year comparisons."
+    },
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published audit documents; audit objection records.",
+      "missing_data": [
+        "published audit documents",
+        "audit objection records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish full audit reports, including objections and agency responses."
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published project report documents; published statistics documents.",
+      "missing_data": [
+        "published project report documents",
+        "published statistics documents"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Maintain a public publication calendar so missing reports are detectable."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published budget documents; published project report documents; budget allocation records; project status records; outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "published budget documents",
+        "published project report documents",
+        "budget allocation records",
+        "project status records",
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 14,
+    "sources_successful": 8,
+    "sources_failed": 6,
+    "new_documents_found": 8
+  },
+  "metadata": {
+    "llm_provider": "rule-based",
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": []
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "government": "Federal Government of Germany",
+  "country_code": "DE",
+  "date": "2026-07-06",
+  "run_type": "manual",
+  "executive_summary": "The transparency audit of the Federal Government of Germany assessed 11 sources of publicly available information, all of which were successfully accessed, resulting in the discovery of 40 new documents. While the audit revealed a high level of accessibility (89) and a moderate level of documentation (70), it highlighted significant deficiencies in completeness (20), traceability (10), and explainability (31). Only one out of five key questions could be answered, indicating that critical information remains unavailable or unclear. This audit underscores the need for improved transparency measures to enhance the public's understanding of government operations.",
+  "today_notes": [
+    {
+      "title": "Law passed: Deutscher Bundestag - Grundgesetz",
+      "category": "legal",
+      "importance": "medium",
+      "summary": "A law passed record was captured from monitored public sources: Deutscher Bundestag - Grundgesetz.",
+      "analysis": "The analysis of the recent law passed, as captured from monitored public sources, indicates that the record is derived from the Deutscher Bundestag - Grundgesetz. This type of record is significant as it serves as a primary input for tracing public spending and policy activity, thereby contributing to civic transparency and accountability. However, it is important to note that there is no information provided regarding the specific details of the law itself, such as its title, provisions, or implications for public spending and policy. This absence of detailed information limits the ability to fully assess the law's impact and relevance to public discourse.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Deutscher Bundestag - Grundgesetz",
+          "url": "https://www.bundestag.de/parlament/grundgesetz",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:46.178257"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Law passed: Gesetze im Internet - Impressum",
+      "category": "legal",
+      "importance": "medium",
+      "summary": "A law passed record was captured from monitored public sources: Gesetze im Internet - Impressum.",
+      "analysis": "The recent passage of a law has been documented through monitored public sources, specifically from the \"Gesetze im Internet - Impressum.\" This record is significant as it serves as a primary input for tracing public spending and policy activity, which are essential for ensuring civic transparency and accountability. However, it is important to note that there is no additional information provided regarding the specific contents of the law, its implications, or any associated public spending details. The absence of such contextual data limits the ability to fully assess the law's impact and relevance to public policy.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Gesetze im Internet - Impressum",
+          "url": "https://www.gesetze-im-internet.de/impressum.html",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:58.342924"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Law passed: Gesetze im Internet",
+      "category": "legal",
+      "importance": "medium",
+      "summary": "A law passed record was captured from monitored public sources: Gesetze im Internet.",
+      "analysis": "The analysis of the recent law passed, as captured from monitored public sources such as Gesetze im Internet, highlights the importance of maintaining accessible records for public scrutiny. These records serve as a primary input for tracing public spending and policy activity, which is essential for civic transparency and accountability. However, it is important to note that there is no information provided regarding the specific details of the law itself, such as its provisions, implications, or the context in which it was enacted. This absence of detailed information limits the ability of the public to fully understand the law's impact and relevance to ongoing policy discussions. Therefore, while the record of the law's passage is available, the lack of comprehensive details in the public domain is a significant gap in the transparency of governmental activities.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Gesetze im Internet",
+          "url": "https://www.gesetze-im-internet.de",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:55.102244"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: CSV herunterladen",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: CSV herunterladen.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically referenced as \"CSV herunterladen,\" serves as a crucial element for understanding public spending and policy activity. Such records are essential for ensuring transparency and accountability in government financial operations. However, it is important to note that the analysis lacks specific details regarding the content of the spending report, including the time period covered, the categories of expenditures, and the entities involved in the transactions. Without this information, it is challenging to fully assess the implications of the spending and its alignment with public policy objectives. The absence of these details limits the ability to trace and evaluate the effectiveness of public spending comprehensively.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CSV herunterladen",
+          "url": "https://www.bundeshaushalt.de/Content/DE/Diagramme/Newsbanner/schuldenquote-csv.csv?__blob=publicationFile&v=5",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:27.124198"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Policy announcement: Deutscher Bundestag - Haushaltsausschuss",
+      "category": "policy",
+      "importance": "medium",
+      "summary": "A policy announcement record was captured from monitored public sources: Deutscher Bundestag - Haushaltsausschuss.",
+      "analysis": "The policy announcement record from the Deutscher Bundestag - Haushaltsausschuss provides a crucial insight into public spending and policy activity, serving as a primary input for understanding governmental financial decisions. However, it is important to note that while the record exists, there is no accompanying documentation or context that explains the implications of the policy or details on how it will be implemented. Additionally, there is a lack of information regarding stakeholder engagement or public feedback related to this announcement. This absence of contextual data limits the ability to fully assess the impact and transparency of the policy in question.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Deutscher Bundestag - Haushaltsausschuss",
+          "url": "https://www.bundestag.de/ausschuesse/a08_haushalt",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:43.887820"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Law passed: Gesetze im Internet - Titelsuche",
+      "category": "legal",
+      "importance": "medium",
+      "summary": "A law passed record was captured from monitored public sources: Gesetze im Internet - Titelsuche.",
+      "analysis": "The analysis of the recent law passed, as captured from the monitored public source \"Gesetze im Internet - Titelsuche,\" indicates that this record is essential for understanding public spending and policy activity. Such records serve as a foundational element for civic transparency, allowing stakeholders to trace legislative actions and their implications. However, it is important to note that there is no information provided regarding the specific details of the law itself, such as its title, content, or the context in which it was enacted. This absence of detailed information limits the ability to fully assess the law's potential impact on public policy and spending. Therefore, while the record of the law's passage is available, the lack of comprehensive details in the public record is a significant gap that hinders transparency and informed public discourse.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Gesetze im Internet - Titelsuche",
+          "url": "https://www.gesetze-im-internet.de/titelsuche.html",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:57.899199"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Startseite  -  Statistisches Bundesamt",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Startseite  -  Statistisches Bundesamt.",
+      "analysis": "The spending report record obtained from the Statistisches Bundesamt serves as a crucial resource for understanding public spending and policy activities. Such records are essential for transparency, as they allow citizens and stakeholders to trace how public funds are allocated and utilized. However, it is important to note that the analysis does not indicate any specific details regarding the content of the spending report, such as the time period covered, the categories of spending included, or any contextual information that would enhance understanding of the data. The absence of this information limits the ability to fully assess the implications of the spending report and its relevance to ongoing public discourse.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Startseite  -  Statistisches Bundesamt",
+          "url": "https://www.destatis.de/DE/Home/_inhalt.html",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:48.297344"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: CSV herunterladen",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: CSV herunterladen.",
+      "analysis": "The spending report record obtained from monitored public sources indicates an effort to document public spending and policy activity, which is crucial for civic transparency. Such records serve as a primary input for understanding how public funds are allocated and utilized. However, it is important to note that the specific details of the spending report, including the categories of expenditures, the entities involved, and the time frame covered, are not provided in the available information. This lack of detail limits the ability to fully assess the implications of the reported spending and its alignment with public policy objectives. Further transparency in the form of comprehensive spending data would enhance public understanding and accountability.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "CSV herunterladen",
+          "url": "https://www.bundeshaushalt.de/Content/DE/Diagramme/Newsbanner/leistungen-rentenversicherung-csv.csv?__blob=publicationFile&v=7",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:16:27.450978"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "High-priority civic questions remain unanswerable",
+      "category": "explainability",
+      "importance": "high",
+      "summary": "3 high-priority civic questions could not be answered from public records in this run.",
+      "analysis": "Based on the provided data, the analysis of the unanswerable civic questions is as follows:\n\n1. **What Happened**: Three high-priority civic questions could not be answered from the available public records. This indicates a gap in the transparency or accessibility of information that is essential for civic engagement and accountability.\n\n2. **Why It Matters**: The inability to answer these questions is significant because it highlights a fundamental expectation of government transparency. Citizens should be able to access information that informs them about government operations, decisions, and expenditures without needing insider knowledge. This lack of access can undermine public trust and engagement in civic processes.\n\n3. **What Is Missing**: The following specific records were noted as missing, which contributed to the inability to answer the civic questions:\n   - **Audit Objection Records**: These documents would provide insights into any discrepancies or issues identified during audits, which are critical for understanding financial accountability.\n   - **Contract Award Records**: Information on how contracts are awarded is essential for assessing fairness and transparency in procurement processes.\n   - **Contract-to-Payment Linkage**: This data would allow for tracking whether payments correspond to the awarded contracts, ensuring that funds are being used as intended.\n   - **Payment Records**: Detailed records of payments made would provide a clear picture of financial transactions and obligations.\n   - **Published Audit Documents**: These documents are crucial for public scrutiny of financial practices and outcomes.\n   - **Published Contract Documents**: Access to these documents is necessary for understanding the terms and conditions of agreements made by the government.\n\nIn summary, the lack of these specific records limits the ability of citizens to obtain critical information about government operations, which is essential for informed civic participation and oversight.",
+      "what_is_missing": "audit objection records; contract award records; contract-to-payment linkage; payment records; published audit documents; published contract documents",
+      "open_questions": [
+        "Which vendors won the largest public contracts this month?",
+        "Can procurement awards be linked to actual payments?",
+        "What did the auditor general object to in the most recent audit cycle?"
+      ],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 70,
+    "timeliness": 60,
+    "accessibility": 89,
+    "completeness": 20,
+    "traceability": 10,
+    "explainability": 31,
+    "overall": 47
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 5 were found (budget, tender, law, policy, statistics). Missing: contract, audit, project report. 40 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "40 of 40 collected documents were retrieved as new or changed within the last 30 days, and 0 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 11 known public sources checked, 11 responded successfully; across 59 pages fetched (including 48 followed links), 40 returned machine-readable content (HTML/CSV/JSON/XML or text-based PDF). 0 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure. Of 5 PDFs collected, 0 were scanned images with no extractable text.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 0 could be established from public records (none). 23 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 0 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 1 from public records, partially answer 3, and failed 4 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: quarterly budget execution reports; budget-to-project linkage.",
+      "missing_data": [
+        "quarterly budget execution reports",
+        "budget-to-project linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "high",
+      "recommendation": "Publish quarterly budget execution data linked to named projects in machine-readable form."
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: published project report documents.",
+      "missing_data": [
+        "published project report documents"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Maintain a public publication calendar so missing reports are detectable."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: published project report documents; project status records; outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "published project report documents",
+        "project status records",
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    },
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish contract award notices with vendor, amount, and date on a stable public page."
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published contract documents; contract award records; payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "published contract documents",
+        "contract award records",
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "document_collection",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    },
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published project report documents; project status records.",
+      "missing_data": [
+        "published project report documents",
+        "project status records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "medium",
+      "recommendation": "Publish project-level implementation monitoring reports on a regular schedule."
+    },
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "failed",
+      "reason_failed": "The required public records could not be found or could not be connected: published audit documents; audit objection records.",
+      "missing_data": [
+        "published audit documents",
+        "audit objection records"
+      ],
+      "failed_step": "document_collection",
+      "severity": "high",
+      "recommendation": "Publish full audit reports, including objections and agency responses."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 11,
+    "sources_successful": 11,
+    "sources_failed": 0,
+    "new_documents_found": 40
+  },
+  "metadata": {
+    "llm_provider": "openai-compatible",
+    "llm_primary_calls": 201,
+    "llm_fallback_calls": 0,
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": [],
+    "crawl": {
+      "pages_fetched": 59,
+      "links_followed": 48,
+      "browser_rescues": 0,
+      "pdf_documents": 5,
+      "scanned_pdfs": 0,
+      "ssl_invalid_pages": 0
+    }
+  }
+}

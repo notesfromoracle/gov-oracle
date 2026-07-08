@@ -1,0 +1,284 @@
+{
+  "government": "Federal Government of Brazil",
+  "country_code": "BR",
+  "date": "2026-07-06",
+  "run_type": "manual",
+  "executive_summary": "The transparency audit of the Federal Government of Brazil assessed 11 sources of publicly available information, with 9 successfully yielding data. A total of 31 new documents were identified, contributing to a documentation score of 90, indicating a strong availability of information. However, the audit revealed significant gaps in completeness (40) and traceability (32), suggesting that while some information is accessible, it may lack the necessary context or connections for comprehensive understanding. Notably, two sources failed to provide data due to technical issues, which limits the overall assessment of transparency. Overall, the findings indicate that while certain aspects of government operations can be understood through public information, critical areas remain opaque.",
+  "today_notes": [
+    {
+      "title": "Contract award: Contratos \u2014 Portal de Compras do Governo Federal",
+      "category": "procurement",
+      "importance": "high",
+      "summary": "A contract award record was captured from monitored public sources: Contratos \u2014 Portal de Compras do Governo Federal.",
+      "analysis": "The contract award record obtained from the monitored public sources, specifically the Contratos \u2014 Portal de Compras do Governo Federal, provides essential information regarding public spending and policy activity. Such records are crucial for understanding how government funds are allocated and for ensuring accountability in public procurement processes. However, it is important to note that there is no indication of any missing data in this instance. The absence of missing information suggests that the record is complete, allowing for a clearer analysis of the contract award. Nonetheless, further context regarding the specific details of the contract, such as the parties involved, the total amount awarded, and the purpose of the contract, would enhance the transparency and comprehensiveness of the public record.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Contratos \u2014 Portal de Compras do Governo Federal",
+          "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/contratos",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:26:25.489555"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Policy announcement: modelos \u2014 Advocacia-Geral da Uni\u00e3o",
+      "category": "policy",
+      "importance": "medium",
+      "summary": "A policy announcement record was captured from monitored public sources: modelos \u2014 Advocacia-Geral da Uni\u00e3o.",
+      "analysis": "The captured policy announcement record from monitored public sources, specifically from the Advocacia-Geral da Uni\u00e3o, represents an important aspect of civic transparency, as such records serve as primary inputs for tracing public spending and policy activity. This type of documentation is crucial for understanding government actions and ensuring accountability. However, it is important to note that there is no information provided regarding the specific content of the policy announcement, such as its objectives, implications, or the context in which it was made. Additionally, there is no indication of how this announcement fits into broader policy frameworks or spending plans. The absence of these details limits the ability to fully assess the impact and relevance of the announcement within the public record.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "modelos \u2014 Advocacia-Geral da Uni\u00e3o",
+          "url": "https://www.gov.br/agu/pt-br/composicao/cgu/cgu/modelos/licitacoesecontratos",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:26:26.905991"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Rendimento, despesa e consumo | IBGE",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Rendimento, despesa e consumo | IBGE.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically from the Instituto Brasileiro de Geografia e Estat\u00edstica (IBGE), provides valuable insights into public spending and policy activity. Such records are essential for understanding how government funds are allocated and utilized, thereby contributing to civic transparency. However, it is important to note that while the report captures relevant data, there is no indication of what specific expenditures or categories of spending are included in the report. Additionally, there is no context provided regarding the time frame of the data or any accompanying analysis that could enhance understanding of the implications of the reported figures. This absence of detailed information limits the ability to fully assess the impact of the reported spending on public policy and community needs.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Rendimento, despesa e consumo | IBGE",
+          "url": "https://www.ibge.gov.br/estatisticas/sociais/rendimento-despesa-e-consumo.html",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:27:08.632453"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Budget allocation: Transpar\u00eancia Fiscal - Or\u00e7amento Nacional",
+      "category": "budget",
+      "importance": "medium",
+      "summary": "A budget allocation record was captured from monitored public sources: Transpar\u00eancia Fiscal - Or\u00e7amento Nacional.",
+      "analysis": "The budget allocation record obtained from the monitored public sources, specifically from \"Transpar\u00eancia Fiscal - Or\u00e7amento Nacional,\" provides essential information for understanding public spending and policy activities. Such records are crucial as they serve as a primary input for analyzing how government resources are allocated and utilized. However, it is important to note that there is no indication of any missing data in this instance. The completeness of the record allows for a more thorough examination of the government's financial decisions, although further context or supplementary documents could enhance the understanding of the implications of these allocations.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Transpar\u00eancia Fiscal - Or\u00e7amento Nacional",
+          "url": "https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:26:06.323343"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: IBGE | Portal do IBGE  | IBGE",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: IBGE | Portal do IBGE  | IBGE.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically from the IBGE and its portal, serves as a crucial resource for understanding public spending and policy activities. Such records are essential for transparency and accountability in government financial practices. However, it is important to note that the analysis does not indicate any missing data from the public record. The absence of additional contextual information, such as the specific time frame of the spending, the categories of expenditures, or comparative data from previous reports, could enhance the understanding of the reported figures. Without this context, it is challenging to fully assess the implications of the spending report on public policy and fiscal management.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "IBGE | Portal do IBGE  | IBGE",
+          "url": "https://www.ibge.gov.br",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:26:57.776198"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Spending report: Receitas e Despesas | IBGE",
+      "category": "statistics",
+      "importance": "medium",
+      "summary": "A spending report record was captured from monitored public sources: Receitas e Despesas | IBGE.",
+      "analysis": "The spending report record obtained from monitored public sources, specifically from the Receitas e Despesas section of the IBGE, serves as a crucial resource for understanding public spending and policy activities. Such records are essential for tracing how government funds are allocated and utilized, thereby contributing to civic transparency and accountability. However, it is important to note that there is no indication of missing data in the public record related to this specific report. The completeness of the available information allows for a more thorough analysis of public financial activities, although further context or supplementary data may enhance understanding of the implications of these expenditures.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Receitas e Despesas | IBGE",
+          "url": "https://www.ibge.gov.br/acesso-informacao/receita-despesas.html",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:27:05.123979"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Procurement notice: Licita\u00e7\u00f5es e Contratos | IBGE",
+      "category": "procurement",
+      "importance": "medium",
+      "summary": "A procurement notice record was captured from monitored public sources: Licita\u00e7\u00f5es e Contratos | IBGE.",
+      "analysis": "The procurement notice record obtained from the monitored public sources, specifically from Licita\u00e7\u00f5es e Contratos at IBGE, serves as a crucial element for understanding public spending and policy activities. Such records provide transparency regarding how government funds are allocated and utilized, which is essential for civic engagement and accountability. However, it is important to note that there is no indication of missing data in this instance, as the procurement notice itself has been captured. Nonetheless, further context regarding the specific details of the procurement, such as the nature of the contracts, the amounts involved, and the timelines for execution, would enhance the understanding of the implications of this procurement notice. This additional information is vital for a comprehensive analysis of public expenditure and its alignment with policy objectives.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "Licita\u00e7\u00f5es e Contratos | IBGE",
+          "url": "https://www.ibge.gov.br/acesso-informacao/licitacoes-e-contratos.html",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:27:05.983085"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Contract award: In\u00edcio :: Contratos.gov.br",
+      "category": "procurement",
+      "importance": "high",
+      "summary": "A contract award record was captured from monitored public sources: In\u00edcio :: Contratos.gov.br. An associated amount of 956 USD was detected in the text.",
+      "analysis": "The contract award record obtained from the monitored public source In\u00edcio :: Contratos.gov.br indicates an associated amount of 956 USD. This type of record is significant as it serves as a primary input for tracing public spending and understanding policy activity. However, it is important to note that there is no additional context provided regarding the nature of the contract, the parties involved, or the specific purpose of the expenditure. This lack of detail limits the ability to fully assess the implications of the contract and its alignment with public policy objectives. Further information on these aspects would enhance transparency and accountability in public spending.",
+      "what_is_missing": null,
+      "open_questions": [],
+      "evidence": [
+        {
+          "title": "In\u00edcio :: Contratos.gov.br",
+          "url": "https://contratos.sistema.gov.br/transparencia",
+          "source_type": "government",
+          "retrieved_at": "2026-07-05T19:26:23.631757"
+        }
+      ],
+      "confidence": 0.675
+    },
+    {
+      "title": "Some official sources were unavailable",
+      "category": "accessibility",
+      "importance": "medium",
+      "summary": "2 of 11 monitored official sources were unreachable or returned errors during this run.",
+      "analysis": "Based on the provided information, the analysis of source availability for the transparency note is as follows:\n\n1. **What Happened**: Out of 11 monitored official sources, 2 were either unreachable or returned errors during the evaluation period. This indicates a significant issue with the reliability of these sources.\n\n2. **Why It Matters**: The unavailability of official sources directly impacts the ability of the public to independently verify information. This lack of access diminishes the overall accessibility score of the information provided by the government, as it hinders transparency and accountability.\n\n3. **What Is Missing**: There is a clear absence of stable and reliably available official web sources. The failure of 2 out of 11 sources suggests a need for improved infrastructure or maintenance of these platforms to ensure consistent access to public information.\n\nIn summary, the findings highlight a critical gap in the availability of official information sources, which is essential for maintaining transparency and public trust. Further investigation into the reasons for the unavailability of these sources may be warranted to enhance the overall accessibility of government information.",
+      "what_is_missing": "Portal da Transpar\u00eancia: HTTP 405; Planalto \u2014 legislation: ReadError: [Errno 54] Connection reset by peer",
+      "open_questions": [],
+      "evidence": [],
+      "confidence": 0.9
+    }
+  ],
+  "transparency_scores": {
+    "documentation": 90,
+    "timeliness": 73,
+    "accessibility": 84,
+    "completeness": 40,
+    "traceability": 32,
+    "explainability": 88,
+    "overall": 68
+  },
+  "score_explanations": {
+    "documentation": "Of 8 expected public document categories, 7 were found (budget, tender, contract, audit, policy, statistics, project report). Missing: law. 31 documents were collected in total. The score combines category coverage (80%) with document volume (20%).",
+    "timeliness": "31 of 31 collected documents were retrieved as new or changed within the last 30 days, and 10 carried an extractable publication date. Undated documents make publication delay unmeasurable, which lowers this score.",
+    "accessibility": "Of 11 known public sources checked, 9 responded successfully; across 38 pages fetched (including 27 followed links), 32 returned machine-readable content (HTML/CSV/JSON/XML or text-based PDF). 2 sources were unreachable or returned errors; unreachable official sources are a direct accessibility failure.",
+    "completeness": "Of the 4 record linkages needed to connect budgets to projects, tenders, contracts, and payments, 1 could be established from public records (budget_funds_project). 21 structured civic events were extracted. Missing linkages mean spending cannot be followed across records.",
+    "traceability": "The money trail could be followed 1 of 4 steps (budget \u2192 project \u2192 tender \u2192 contract \u2192 payment) before the public record broke. Traceability requires an unbroken chain, so a single missing link (most often contract-to-payment) caps the score regardless of how much is published upstream.",
+    "explainability": "The system attempted 8 civic transparency questions. It could answer 6 from public records, partially answer 2, and failed 0 due to missing or unlinked public information. Partial answers count at half weight."
+  },
+  "failed_questions": [
+    {
+      "question": "Where did the health ministry's development budget go this quarter?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which vendors won the largest public contracts this month?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which infrastructure projects are currently delayed?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Which programs received budget increases in the latest budget?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "What did the auditor general object to in the most recent audit cycle?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "high",
+      "recommendation": null
+    },
+    {
+      "question": "Which agencies have not published required periodic reports recently?",
+      "answerability_status": "answered",
+      "reason_failed": "",
+      "missing_data": [],
+      "failed_step": null,
+      "severity": "medium",
+      "recommendation": null
+    },
+    {
+      "question": "Can procurement awards be linked to actual payments?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: payment records; contract-to-payment linkage.",
+      "missing_data": [
+        "payment records",
+        "contract-to-payment linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "critical",
+      "recommendation": "Publish payment records referencing contract identifiers so awards can be reconciled with disbursements."
+    },
+    {
+      "question": "Can a budget allocation be followed to a completed public asset or outcome?",
+      "answerability_status": "partial",
+      "reason_failed": "Some supporting records were found, but the public record is incomplete: outcome reporting; asset registers; full spending chain linkage.",
+      "missing_data": [
+        "outcome reporting",
+        "asset registers",
+        "full spending chain linkage"
+      ],
+      "failed_step": "record_linkage",
+      "severity": "critical",
+      "recommendation": "Link budget lines, projects, contracts, and completion reports with shared identifiers."
+    }
+  ],
+  "source_coverage": {
+    "sources_checked": 11,
+    "sources_successful": 9,
+    "sources_failed": 2,
+    "new_documents_found": 31
+  },
+  "metadata": {
+    "llm_provider": "openai-compatible",
+    "llm_primary_calls": 361,
+    "llm_fallback_calls": 0,
+    "depth": "standard",
+    "language": "en",
+    "focus_areas": [],
+    "crawl": {
+      "pages_fetched": 38,
+      "links_followed": 27,
+      "browser_rescues": 0,
+      "pdf_documents": 0,
+      "scanned_pdfs": 0,
+      "ssl_invalid_pages": 0
+    }
+  }
+}
