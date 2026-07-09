@@ -33,3 +33,30 @@ def start_scheduler() -> BackgroundScheduler:
     scheduler.start()
     logger.info("Scheduler started: daily 02:00, weekly Sunday 03:00")
     return scheduler
+
+
+def main() -> None:
+    """Standalone scheduler process for production.
+
+    Run exactly ONE instance (e.g. under Supervisor):
+
+        python -m src.scheduler
+
+    In production the API runs under gunicorn with SCHEDULER_ENABLED=false —
+    embedding the scheduler in gunicorn would start one per worker and
+    duplicate every scheduled run.
+    """
+    import time
+
+    logging.basicConfig(level=logging.INFO)
+    db.ensure_schema()
+    start_scheduler()
+    try:
+        while True:
+            time.sleep(3600)
+    except KeyboardInterrupt:
+        logger.info("Scheduler stopped")
+
+
+if __name__ == "__main__":
+    main()
