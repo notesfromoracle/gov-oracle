@@ -74,7 +74,9 @@ class Source(TimestampMixin, Base):
     government_id: Mapped[int] = mapped_column(ForeignKey("governments.id"))
     institution_id: Mapped[int | None] = mapped_column(ForeignKey("institutions.id"))
     name: Mapped[str] = mapped_column(String(255))
-    url: Mapped[str] = mapped_column(String(1024))
+    # part of uq_source_url: must stay under InnoDB's 3072-byte index cap
+    # (utf8mb4 = 4 bytes/char). Sources are portal roots, so 700 chars is ample.
+    url: Mapped[str] = mapped_column(String(700))
     source_type: Mapped[str] = mapped_column(String(64), default="government")
     country_code: Mapped[str | None] = mapped_column(String(8))
     reliability_score: Mapped[float] = mapped_column(Float, default=0.5)
