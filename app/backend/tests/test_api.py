@@ -89,6 +89,26 @@ def test_failed_questions(client):
     assert all(q["missing_data"] for q in failed)
 
 
+def test_flask_seed_cli(client):
+    runner = client.application.test_cli_runner()
+
+    result = runner.invoke(args=["seed"])
+    assert result.exit_code == 0, result.output
+    assert "governments seeded." in result.output
+
+    governments = client.get("/api/governments").json
+    assert len(governments) >= 22
+
+    # single-government form, alias resolution, idempotency
+    result = runner.invoke(args=["seed", "--government", "kenya"])
+    assert result.exit_code == 0
+    assert "Government of Kenya" in result.output
+
+    result = runner.invoke(args=["seed", "--government", "Atlantis"])
+    assert result.exit_code == 0
+    assert "not in the curated registry" in result.output
+
+
 def test_trigger_run_returns_202(client):
     response = client.post("/api/governments/1/run", json={"run_type": "manual"})
     assert response.status_code == 202

@@ -22,6 +22,10 @@ def create_app() -> Flask:
     db.ensure_schema()
     app.register_blueprint(api)
 
+    from .cli import seed_command
+
+    app.cli.add_command(seed_command)
+
     if os.getenv("SCHEDULER_ENABLED", "false").lower() == "true":
         from .scheduler import start_scheduler
 
