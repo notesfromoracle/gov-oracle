@@ -53,10 +53,6 @@ export default function HomePage() {
         ))}
       </div>
 
-      <p className="mx-auto mt-12 max-w-2xl text-center text-xs text-slate-400">
-        This score does not measure whether a government is good or bad. It measures how
-        well public information allows independent analysis.
-      </p>
     </div>
   );
 }
