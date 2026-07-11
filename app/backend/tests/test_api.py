@@ -16,6 +16,7 @@ def client(tmp_path_factory):
     os.environ["CRAWL_ENABLED"] = "false"
     os.environ["SCHEDULER_ENABLED"] = "false"
     os.environ["REDIS_URL"] = "redis://127.0.0.1:1/0"  # deliberately unreachable
+    os.environ["ALLOW_MISSING_CONFIG"] = "true"  # tests run without an OpenAI key
 
     from gov_oracle_agents import GovernmentOracle
     from gov_oracle_agents.storage import reset_engine

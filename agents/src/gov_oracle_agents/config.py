@@ -10,9 +10,14 @@ from __future__ import annotations
 import os
 from dataclasses import dataclass, field
 
-from dotenv import load_dotenv
+from dotenv import find_dotenv, load_dotenv
 
+# Two search strategies, first hit wins (no override):
+# 1. relative to this file — finds the repo-root .env under editable installs
+# 2. upward from the process cwd — covers site-packages installs whose
+#    processes (gunicorn/rq/scheduler) run from inside the repo
 load_dotenv()
+load_dotenv(find_dotenv(usecwd=True))
 
 DEFAULT_SQLITE_URL = "sqlite:///./gov_oracle.db"
 
@@ -63,3 +68,43 @@ class Settings:
 
 def get_settings() -> Settings:
     return Settings()
+
+
+class ConfigError(RuntimeError):
+    """Raised when production-critical configuration is missing."""
+
+
+def validate_required_config(require_llm: bool = True) -> None:
+    """Fail fast when DATABASE_URL / OPENAI_API_KEY are missing.
+
+    Called by the production entry points (API app factory, scheduler, RQ
+    job body). The error message reports where dotenv looked for .env, so a
+    misconfigured server explains itself instead of silently falling back
+    to SQLite or the rule-based analyst.
+
+    Local development and tests bypass with ALLOW_MISSING_CONFIG=true.
+    The library CLI (python -m gov_oracle_agents.run) intentionally does
+    not validate — its offline fallbacks are a feature.
+    """
+    if os.getenv("ALLOW_MISSING_CONFIG", "").lower() == "true":
+        return
+    missing = [
+        name
+        for name, required in (
+            ("DATABASE_URL", True),
+            ("OPENAI_API_KEY", require_llm),
+        )
+        if required and not os.getenv(name)
+    ]
+    if not missing:
+        return
+    package_env = find_dotenv() or "not found"
+    cwd_env = find_dotenv(usecwd=True) or "not found"
+    raise ConfigError(
+        f"Missing required environment variables: {', '.join(missing)}. "
+        f"dotenv search — relative to package: {package_env}; "
+        f"upward from cwd {os.getcwd()}: {cwd_env}. "
+        "Create .env at the repository root with these variables (readable by "
+        "the process user), or set them in the process environment. "
+        "For local development without them, set ALLOW_MISSING_CONFIG=true."
+    )

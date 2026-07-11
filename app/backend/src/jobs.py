@@ -16,9 +16,14 @@ logger = logging.getLogger(__name__)
 def execute_run(government_name: str, run_type: str = "daily") -> dict:
     """The actual job body. Importable by RQ workers."""
     from gov_oracle_agents import GovernmentOracle
+    from gov_oracle_agents.config import validate_required_config
 
     from . import cache
     from .db import find_government_id
+
+    # fail the job loudly rather than writing a report into a fallback
+    # SQLite file or producing rule-based analysis unnoticed
+    validate_required_config()
 
     oracle = GovernmentOracle()
     report = oracle.run_government_report(government_name=government_name, run_type=run_type)

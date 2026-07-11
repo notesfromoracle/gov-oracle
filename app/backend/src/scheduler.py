@@ -48,7 +48,10 @@ def main() -> None:
     """
     import time
 
+    from gov_oracle_agents.config import validate_required_config
+
     logging.basicConfig(level=logging.INFO)
+    validate_required_config()  # abort on missing DATABASE_URL / OPENAI_API_KEY
     db.ensure_schema()
     start_scheduler()
     try:

@@ -1,6 +1,8 @@
 """Engine/session management with lazy initialization."""
 from __future__ import annotations
 
+import logging
+import os
 from contextlib import contextmanager
 from typing import Iterator
 
@@ -8,8 +10,10 @@ from sqlalchemy import create_engine
 from sqlalchemy.engine import Engine
 from sqlalchemy.orm import Session, sessionmaker
 
-from ..config import get_settings
+from ..config import DEFAULT_SQLITE_URL, get_settings
 from .orm import Base
+
+logger = logging.getLogger(__name__)
 
 _engine: Engine | None = None
 _session_factory: sessionmaker[Session] | None = None
@@ -19,6 +23,15 @@ def get_engine(database_url: str | None = None) -> Engine:
     global _engine, _session_factory
     if _engine is None or database_url is not None:
         url = database_url or get_settings().database_url
+        if url == DEFAULT_SQLITE_URL:
+            # loud on purpose: a worker that silently writes to a local SQLite
+            # file while the API reads MySQL "succeeds" invisibly
+            logger.warning(
+                "DATABASE_URL is not set — falling back to local SQLite at "
+                "./gov_oracle.db (cwd=%s). Set DATABASE_URL explicitly in "
+                "production process environments.",
+                os.getcwd(),
+            )
         kwargs: dict = {"pool_pre_ping": True}
         if url.startswith("sqlite"):
             kwargs["connect_args"] = {"check_same_thread": False}

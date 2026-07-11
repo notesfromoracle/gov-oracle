@@ -15,6 +15,10 @@ logging.basicConfig(level=logging.INFO)
 
 
 def create_app() -> Flask:
+    from gov_oracle_agents.config import validate_required_config
+
+    validate_required_config()  # abort on missing DATABASE_URL / OPENAI_API_KEY
+
     app = Flask("gov_oracle_backend")
     # public read API — open CORS by default, restrict via CORS_ORIGINS in prod
     cors_origins = os.getenv("CORS_ORIGINS", "*")
